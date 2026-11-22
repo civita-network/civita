@@ -108,6 +108,12 @@ Additional capabilities, including parameter identification, model validation, a
 
 For updates and opportunities to contribute, follow the [CIVITA GitHub organization](https://github.com/civita-network) and participate in [CIVITA Discussions](https://github.com/civita-network/civita/discussions).
 
+## License and Copyright
+
+Original project and governance documentation in this repository is licensed under [CC BY 4.0](LICENSE). Third-party material keeps its original terms. CIVITA-developed software is licensed under MIT, with copyright retained by the respective contributors or other applicable rights holders.
+
+See the [CIVITA licensing policy](LICENSING.md), [authors and attribution](AUTHORS.md), and [contribution guidelines](CONTRIBUTING.md).
+
 ---
 
 **CIVITA | From Model Development to Predictive Engineering**
